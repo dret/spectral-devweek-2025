@@ -1,2 +1,3 @@
 - name: Spectral Linting
+
   uses: stoplightio/spectral-action@v0.8.11
